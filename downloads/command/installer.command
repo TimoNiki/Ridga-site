@@ -1,0 +1,11 @@
+echo "https://timoniki.github.io/Ridga-site"
+echo "To open link on old macOS press 'CMD' button and double-click to link."
+
+echo "downloading installer..."
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/TimoNiki/Ridga-cli/refs/heads/main/installer.sh)"
+echo "Installation ended. Installer printed result."
+echo "ridga install APP -- to install an app."
+echo "ridga verify APP -- to verify app, if not official."
+echo "Copyright 2026 TimoNiki"
+echo "https://timoniki.github.io/Ridga-site"
+echo "To open link on old macOS press 'CMD' button and double-click to link."
