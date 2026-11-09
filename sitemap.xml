@@ -1,3 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://timoniki.github.io/Ridga-site/</loc>
+<lastmod>2026-11-09T16:15:10+00:00</lastmod>
+<priority>0.8000</priority>
+</url>
+<url>
+<loc>https://timoniki.github.io/Ridga-site/download/</loc>
+<lastmod>2026-11-09T16:15:10+00:00</lastmod>
+<priority>0.6400</priority>
+</url>
+<url>
+<loc>https://timoniki.github.io/Ridga-site/help/</loc>
+<lastmod>2026-11-09T16:15:10+00:00</lastmod>
+<priority>0.6400</priority>
+</url>
+<url>
+<loc>https://timoniki.github.io/Ridga-site/credits/</loc>
+<lastmod>2026-11-09T16:15:10+00:00</lastmod>
+<priority>0.6400</priority>
+</url>
+<url>
+<loc>https://timoniki.github.io/Ridga-site/info/timoniki/</loc>
+<lastmod>2026-11-09T16:15:10+00:00</lastmod>
+<priority>0.6400</priority>
+</url>
 </urlset>
